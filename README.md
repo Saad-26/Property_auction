@@ -51,4 +51,3 @@ The project includes production-ready Dockerfiles for both services:
 A GitHub Actions workflow is included in `.github/workflows/deploy.yml` for automated deployment to **Amazon ECR**.
 
 ---
-*Built with ❤️ by Antigravity*
